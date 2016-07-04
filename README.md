@@ -1,2 +1,2 @@
-# BoP_code
-code of &lt;Beauty of Programming>
+# BoP\_code
+code of *Beauty of Programming*
